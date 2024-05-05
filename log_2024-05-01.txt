@@ -1,0 +1,343 @@
+2024-05-01 09:16:06 - Player 'geoffrey' gets an income of 17 and now has a total of 17
+2024-05-01 09:18:17 - Player 'geoffrey' gets an income of 17 and now has a total of 17
+2024-05-01 12:28:31 - Player 'wolfric' gets an income of 29 and now has a total of 29
+2024-05-01 12:28:54 - function "showActionDiv", action: transfer_forces, land_to: null, character: wolfric
+2024-05-01 12:29:03 - function "showActionDiv", action: send_army, land_to: Lincolnshire, character: wolfric
+2024-05-01 12:29:03 - function 'setArmyLocation',  land: Lincolnshire, character: wolfric now has his army_location at: Lincolnshire
+2024-05-01 12:29:07 - Player 'wilfred' gets an income of 17 and now has a total of 17
+2024-05-01 12:29:07 - Function 'findPath', value: ["Cardiganshire"]
+2024-05-01 12:29:07 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 6, Object.keys(lands_within_reach_to_attack).length: 6, character: wilfred, lands_within_reach_to_attack: [
+  "Merionethshire",
+  "Montgomeryshire",
+  "Radnorshire",
+  "Brecknockshire",
+  "Carmarthenshire",
+  "Pembrokeshire"
+]
+2024-05-01 12:29:07 - Function 'transferForcesCPU', home army forces are too low for 'wilfred' at Cardiganshire, men: 17, knights: 0, so no transfer will be done
+2024-05-01 12:29:07 - function "showActionDiv", action: send_army, land_to: Montgomeryshire, character: wilfred
+2024-05-01 12:29:07 - function 'setArmyLocation',  land: Montgomeryshire, character: wilfred now has his army_location at: Montgomeryshire
+2024-05-01 12:29:16 - Player 'cedric' gets an income of 8 and now has a total of 8
+2024-05-01 12:29:16 - Function 'findPath', value: ["Kirkcudbrightshire"]
+2024-05-01 12:29:16 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 3, Object.keys(lands_within_reach_to_attack).length: 3, character: cedric, lands_within_reach_to_attack: [
+  "Wigtownshire",
+  "Ayrshire",
+  "Dumfriesshire"
+]
+2024-05-01 12:29:16 - Function 'transferForcesCPU', home army forces are too low for 'cedric' at Kirkcudbrightshire, men: 10, knights: 0, so no transfer will be done
+2024-05-01 12:29:17 - function "showActionDiv", action: send_army, land_to: Wigtownshire, character: cedric
+2024-05-01 12:29:17 - function 'setArmyLocation',  land: Wigtownshire, character: cedric now has his army_location at: Wigtownshire
+2024-05-01 12:29:19 - Player 'geoffrey' gets an income of 10 and now has a total of 10
+2024-05-01 12:29:19 - Function 'findPath', value: ["Aberdeenshire"]
+2024-05-01 12:29:19 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 4, Object.keys(lands_within_reach_to_attack).length: 4, character: geoffrey, lands_within_reach_to_attack: [
+  "Banffshire",
+  "Perthshire",
+  "Angus",
+  "Kincardineshire"
+]
+2024-05-01 12:29:19 - Function 'transferForcesCPU', home army forces are too low for 'geoffrey' at Aberdeenshire, men: 8, knights: 0, so no transfer will be done
+2024-05-01 12:29:19 - Function 'transferForcesCPU', home army forces are too low for 'geoffrey' at Aberdeenshire, men: 8, knights: 0, so no transfer will be done
+2024-05-01 12:29:19 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: geoffrey
+2024-05-01 12:29:26 - Player 'brian' gets an income of 14 and now has a total of 14
+2024-05-01 12:29:26 - Function 'findPath', value: ["Sussex"]
+2024-05-01 12:29:26 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 3, Object.keys(lands_within_reach_to_attack).length: 3, character: brian, lands_within_reach_to_attack: [
+  "Hampshire",
+  "Surrey",
+  "Kent"
+]
+2024-05-01 12:29:26 - Function 'transferForcesCPU', home army forces are too low for 'brian' at Sussex, men: 13, knights: 0, so no transfer will be done
+2024-05-01 12:29:26 - Function 'transferForcesCPU', home army forces are too low for 'brian' at Sussex, men: 13, knights: 0, so no transfer will be done
+2024-05-01 12:29:27 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: brian
+2024-05-01 12:29:32 - Player 'roger' gets an income of 11 and now has a total of 11
+2024-05-01 12:29:32 - Function 'findPath', value: ["Warwickshire"]
+2024-05-01 12:29:32 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 6, Object.keys(lands_within_reach_to_attack).length: 6, character: roger, lands_within_reach_to_attack: [
+  "Worcestershire",
+  "Staffordshire",
+  "Leicestershire",
+  "Northamptonshire",
+  "Oxfordshire",
+  "Gloucestershire"
+]
+2024-05-01 12:29:32 - Function 'transferForcesCPU', home army forces are too low for 'roger' at Warwickshire, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:29:32 - function "showActionDiv", action: send_army, land_to: Gloucestershire, character: roger
+2024-05-01 12:29:32 - function 'setArmyLocation',  land: Gloucestershire, character: roger now has his army_location at: Gloucestershire
+2024-05-01 12:29:36 - Player 'edmund' gets an income of 11 and now has a total of 11
+2024-05-01 12:29:36 - Function 'findPath', value: ["Norfolk"]
+2024-05-01 12:29:36 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 3, Object.keys(lands_within_reach_to_attack).length: 3, character: edmund, lands_within_reach_to_attack: [
+  "Lincolnshire",
+  "Cambridgeshire",
+  "Suffolk"
+]
+2024-05-01 12:29:36 - Function 'transferForcesCPU', home army forces are too low for 'edmund' at Norfolk, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:29:36 - function "showActionDiv", action: send_army, land_to: Suffolk, character: edmund
+2024-05-01 12:29:36 - function 'setArmyLocation',  land: Suffolk, character: edmund now has his army_location at: Suffolk
+2024-05-01 12:29:41 - Player 'philip' gets an income of 8 and now has a total of 8
+2024-05-01 12:29:41 - Function 'findPath', value: ["Essex"]
+2024-05-01 12:29:41 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 5, Object.keys(lands_within_reach_to_attack).length: 5, character: philip, lands_within_reach_to_attack: [
+  "Cambridgeshire",
+  "Hertfordshire",
+  "Middlesex",
+  "Surrey",
+  "Kent"
+]
+2024-05-01 12:29:41 - Function 'transferForcesCPU', home army forces are too low for 'philip' at Essex, men: 14, knights: 0, so no transfer will be done
+2024-05-01 12:29:41 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: philip
+2024-05-01 12:29:45 - Player 'reginald' gets an income of 13 and now has a total of 13
+2024-05-01 12:29:45 - Function 'findPath', value: ["Cornwall"]
+2024-05-01 12:29:45 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 1, Object.keys(lands_within_reach_to_attack).length: 1, character: reginald, lands_within_reach_to_attack: [
+  "Devon"
+]
+2024-05-01 12:29:45 - Function 'transferForcesCPU', home army forces are too low for 'reginald' at Cornwall, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:29:45 - function "showActionDiv", action: go_raiding, land_to: null, character: reginald
+2024-05-01 12:29:45 - Function 'goRaiding', result: [
+  {
+    "winner": "geoffrey",
+    "loser": "reginald",
+    "gold_stolen": 6,
+    "success": false,
+    "winner_fullname": "Geoffrey Longsword",
+    "loser_fullname": "Reginald Front-de-Boeuf"
+  }
+]
+2024-05-01 12:29:51 - Player 'wolfric' gets an income of 51 and now has a total of 80
+2024-05-01 12:29:56 - function "showActionDiv", action: buy_home_army, land_to: null, character: wolfric
+2024-05-01 12:30:09 - Player 'wilfred' gets an income of 33 and now has a total of 50
+2024-05-01 12:30:09 - Function 'findPath', value: ["Montgomeryshire","Cardiganshire"]
+2024-05-01 12:30:09 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 7, Object.keys(lands_within_reach_to_attack).length: 7, character: wilfred, lands_within_reach_to_attack: [
+  "Merionethshire",
+  "Radnorshire",
+  "Brecknockshire",
+  "Carmarthenshire",
+  "Pembrokeshire",
+  "Shropshire",
+  "Denbighshire"
+]
+2024-05-01 12:30:09 - Function 'transferForcesCPU', home army forces are too low for 'wilfred' at Cardiganshire, men: 17, knights: 0, so no transfer will be done
+2024-05-01 12:30:09 - function "showActionDiv", action: go_raiding, land_to: null, character: wilfred
+2024-05-01 12:30:09 - Function 'goRaiding', result: [
+  {
+    "winner": "reginald",
+    "loser": "wilfred",
+    "gold_stolen": 25,
+    "success": false,
+    "winner_fullname": "Reginald Front-de-Boeuf",
+    "loser_fullname": "Wilfred of Ivanhoe"
+  }
+]
+2024-05-01 12:30:15 - Player 'cedric' gets an income of 24 and now has a total of 32
+2024-05-01 12:30:15 - Function 'findPath', value: ["Wigtownshire","Kirkcudbrightshire"]
+2024-05-01 12:30:15 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 2, Object.keys(lands_within_reach_to_attack).length: 2, character: cedric, lands_within_reach_to_attack: [
+  "Ayrshire",
+  "Dumfriesshire"
+]
+2024-05-01 12:30:15 - Function 'transferForcesCPU', home army forces are too low for 'cedric' at Kirkcudbrightshire, men: 10, knights: 0, so no transfer will be done
+2024-05-01 12:30:15 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: cedric
+2024-05-01 12:30:26 - Player 'geoffrey' gets an income of 10 and now has a total of 26
+2024-05-01 12:30:26 - Function 'findPath', value: ["Aberdeenshire"]
+2024-05-01 12:30:26 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 4, Object.keys(lands_within_reach_to_attack).length: 4, character: geoffrey, lands_within_reach_to_attack: [
+  "Banffshire",
+  "Perthshire",
+  "Angus",
+  "Kincardineshire"
+]
+2024-05-01 12:30:26 - Function 'transferForcesCPU', home army forces are too low for 'geoffrey' at Aberdeenshire, men: 8, knights: 0, so no transfer will be done
+2024-05-01 12:30:26 - function "showActionDiv", action: send_army, land_to: Angus, character: geoffrey
+2024-05-01 12:30:26 - function 'setArmyLocation',  land: Angus, character: geoffrey now has his army_location at: Angus
+2024-05-01 12:30:34 - Player 'brian' gets an income of 14 and now has a total of 28
+2024-05-01 12:30:34 - Function 'findPath', value: ["Sussex"]
+2024-05-01 12:30:34 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 3, Object.keys(lands_within_reach_to_attack).length: 3, character: brian, lands_within_reach_to_attack: [
+  "Hampshire",
+  "Surrey",
+  "Kent"
+]
+2024-05-01 12:30:34 - Function 'transferForcesCPU', home army forces are too low for 'brian' at Sussex, men: 13, knights: 0, so no transfer will be done
+2024-05-01 12:30:34 - function "showActionDiv", action: go_raiding, land_to: null, character: brian
+2024-05-01 12:30:34 - Function 'goRaiding', result: [
+  {
+    "winner": "brian",
+    "loser": "wolfric",
+    "gold_stolen": 0,
+    "success": true,
+    "winner_fullname": "Brian de Bois-Guilbert",
+    "loser_fullname": "Wolfric the Wild"
+  }
+]
+2024-05-01 12:30:42 - Player 'roger' gets an income of 37 and now has a total of 48
+2024-05-01 12:30:42 - Function 'findPath', value: ["Gloucestershire","Warwickshire"]
+2024-05-01 12:30:42 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 10, Object.keys(lands_within_reach_to_attack).length: 10, character: roger, lands_within_reach_to_attack: [
+  "Monmouthshire",
+  "Herefordshire",
+  "Worcestershire",
+  "Oxfordshire",
+  "Berkshire",
+  "Wiltshire",
+  "Somerset",
+  "Staffordshire",
+  "Leicestershire",
+  "Northamptonshire"
+]
+2024-05-01 12:30:42 - Function 'transferForcesCPU', home army forces are too low for 'roger' at Warwickshire, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:30:42 - function "showActionDiv", action: go_raiding, land_to: null, character: roger
+2024-05-01 12:30:42 - Function 'goRaiding', result: [
+  {
+    "winner": "roger",
+    "loser": "wolfric",
+    "gold_stolen": 0,
+    "success": true,
+    "winner_fullname": "Roger Falconbridge",
+    "loser_fullname": "Wolfric the Wild"
+  }
+]
+2024-05-01 12:30:45 - Player 'edmund' gets an income of 25 and now has a total of 36
+2024-05-01 12:30:45 - Function 'findPath', value: ["Suffolk","Norfolk"]
+2024-05-01 12:30:45 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 2, Object.keys(lands_within_reach_to_attack).length: 2, character: edmund, lands_within_reach_to_attack: [
+  "Lincolnshire",
+  "Cambridgeshire"
+]
+2024-05-01 12:30:45 - Function 'transferForcesCPU', home army forces are too low for 'edmund' at Norfolk, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:30:45 - function "showActionDiv", action: send_army, land_to: Lincolnshire, character: edmund
+2024-05-01 12:30:45 - Function 'getBattleResult' (before battle starts), player1: edmund, player1_men: 10,  player1_knights: 0, player1_catapults: 0, player1_leadership: 8, player1_raw_numbers: 10, player2: wolfric, player2_men: 55,  player2_knights: 0, player2_catapults: 0, player2_leadership: 4, player2_raw_numbers: 55
+2024-05-01 12:30:45 - function 'setArmyLocation',  land: Norfolk, character: edmund now has his army_location at: Norfolk
+2024-05-01 12:31:00 - Player 'philip' gets an income of 8 and now has a total of 16
+2024-05-01 12:31:00 - Function 'findPath', value: ["Essex"]
+2024-05-01 12:31:00 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 5, Object.keys(lands_within_reach_to_attack).length: 5, character: philip, lands_within_reach_to_attack: [
+  "Cambridgeshire",
+  "Hertfordshire",
+  "Middlesex",
+  "Surrey",
+  "Kent"
+]
+2024-05-01 12:31:00 - Function 'transferForcesCPU', home army forces are too low for 'philip' at Essex, men: 14, knights: 0, so no transfer will be done
+2024-05-01 12:31:00 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: philip
+2024-05-01 12:31:04 - Player 'reginald' gets an income of 13 and now has a total of 45
+2024-05-01 12:31:04 - Function 'findPath', value: ["Cornwall"]
+2024-05-01 12:31:04 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 1, Object.keys(lands_within_reach_to_attack).length: 1, character: reginald, lands_within_reach_to_attack: [
+  "Devon"
+]
+2024-05-01 12:31:04 - Function 'transferForcesCPU', home army forces are too low for 'reginald' at Cornwall, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:31:04 - function "showActionDiv", action: send_army, land_to: Devon, character: reginald
+2024-05-01 12:31:05 - function 'setArmyLocation',  land: Devon, character: reginald now has his army_location at: Devon
+2024-05-01 12:31:08 - Player 'wolfric' gets an income of 51 and now has a total of 51
+2024-05-01 12:31:18 - function "showActionDiv", action: transfer_forces, land_to: null, character: wolfric
+2024-05-01 12:31:22 - function "showActionDiv", action: send_army, land_to: Yorkshire, character: wolfric
+2024-05-01 12:31:23 - function 'setArmyLocation',  land: Yorkshire, character: wolfric now has his army_location at: Yorkshire
+2024-05-01 12:31:26 - function "showActionDiv", action: transfer_forces, land_to: null, character: wolfric
+2024-05-01 12:31:36 - function "showActionDiv", action: send_army, land_to: Lincolnshire, character: wolfric
+2024-05-01 12:31:37 - function 'setArmyLocation',  land: Lincolnshire, character: wolfric now has his army_location at: Lincolnshire
+2024-05-01 12:31:41 - function "showActionDiv", action: send_army, land_to: Leicestershire, character: wolfric
+2024-05-01 12:31:41 - function 'setArmyLocation',  land: Leicestershire, character: wolfric now has his army_location at: Leicestershire
+2024-05-01 12:31:44 - Player 'wilfred' gets an income of 33 and now has a total of 58
+2024-05-01 12:31:44 - Function 'findPath', value: ["Montgomeryshire","Cardiganshire"]
+2024-05-01 12:31:44 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 7, Object.keys(lands_within_reach_to_attack).length: 7, character: wilfred, lands_within_reach_to_attack: [
+  "Merionethshire",
+  "Radnorshire",
+  "Brecknockshire",
+  "Carmarthenshire",
+  "Pembrokeshire",
+  "Shropshire",
+  "Denbighshire"
+]
+2024-05-01 12:31:44 - Function 'transferForcesCPU', home army forces are too low for 'wilfred' at Cardiganshire, men: 17, knights: 0, so no transfer will be done
+2024-05-01 12:31:44 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: wilfred
+2024-05-01 12:31:50 - Player 'cedric' gets an income of 24 and now has a total of 56
+2024-05-01 12:31:50 - Function 'findPath', value: ["Wigtownshire","Kirkcudbrightshire"]
+2024-05-01 12:31:50 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 2, Object.keys(lands_within_reach_to_attack).length: 2, character: cedric, lands_within_reach_to_attack: [
+  "Ayrshire",
+  "Dumfriesshire"
+]
+2024-05-01 12:31:50 - Function 'transferForcesCPU', home army forces are too low for 'cedric' at Kirkcudbrightshire, men: 10, knights: 0, so no transfer will be done
+2024-05-01 12:31:50 - function "showActionDiv", action: send_army, land_to: Dumfriesshire, character: cedric
+2024-05-01 12:31:50 - function 'setArmyLocation',  land: Dumfriesshire, character: cedric now has his army_location at: Dumfriesshire
+2024-05-01 12:31:57 - Player 'geoffrey' gets an income of 27 and now has a total of 53
+2024-05-01 12:31:57 - Function 'findPath', value: ["Angus","Aberdeenshire"]
+2024-05-01 12:31:57 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 3, Object.keys(lands_within_reach_to_attack).length: 3, character: geoffrey, lands_within_reach_to_attack: [
+  "Banffshire",
+  "Perthshire",
+  "Kincardineshire"
+]
+2024-05-01 12:31:57 - Function 'transferForcesCPU', home army forces are too low for 'geoffrey' at Aberdeenshire, men: 8, knights: 0, so no transfer will be done
+2024-05-01 12:31:57 - Function 'transferForcesCPU', home army forces are too low for 'geoffrey' at Aberdeenshire, men: 8, knights: 0, so no transfer will be done
+2024-05-01 12:31:57 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: geoffrey
+2024-05-01 12:32:00 - Player 'brian' gets an income of 14 and now has a total of 42
+2024-05-01 12:32:00 - Function 'findPath', value: ["Sussex"]
+2024-05-01 12:32:00 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 3, Object.keys(lands_within_reach_to_attack).length: 3, character: brian, lands_within_reach_to_attack: [
+  "Hampshire",
+  "Surrey",
+  "Kent"
+]
+2024-05-01 12:32:00 - Function 'transferForcesCPU', home army forces are too low for 'brian' at Sussex, men: 13, knights: 0, so no transfer will be done
+2024-05-01 12:32:00 - function "showActionDiv", action: send_army, land_to: Surrey, character: brian
+2024-05-01 12:32:00 - function 'setArmyLocation',  land: Surrey, character: brian now has his army_location at: Surrey
+2024-05-01 12:32:02 - Player 'roger' gets an income of 37 and now has a total of 85
+2024-05-01 12:32:02 - Function 'findPath', value: ["Gloucestershire","Warwickshire"]
+2024-05-01 12:32:02 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 10, Object.keys(lands_within_reach_to_attack).length: 10, character: roger, lands_within_reach_to_attack: [
+  "Monmouthshire",
+  "Herefordshire",
+  "Worcestershire",
+  "Oxfordshire",
+  "Berkshire",
+  "Wiltshire",
+  "Somerset",
+  "Staffordshire",
+  "Leicestershire",
+  "Northamptonshire"
+]
+2024-05-01 12:32:03 - Function 'transferForcesCPU', home army forces are too low for 'roger' at Warwickshire, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:32:03 - function "showActionDiv", action: send_army, land_to: Wiltshire, character: roger
+2024-05-01 12:32:03 - function 'setArmyLocation',  land: Wiltshire, character: roger now has his army_location at: Wiltshire
+2024-05-01 12:32:04 - Player 'edmund' gets an income of 25 and now has a total of 61
+2024-05-01 12:32:04 - Function 'findPath', value: ["Norfolk"]
+2024-05-01 12:32:04 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 2, Object.keys(lands_within_reach_to_attack).length: 2, character: edmund, lands_within_reach_to_attack: [
+  "Lincolnshire",
+  "Cambridgeshire"
+]
+2024-05-01 12:32:04 - Function 'transferForcesCPU', home army forces are too low for 'edmund' at Norfolk, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:32:04 - Function 'transferForcesCPU', home army forces are too low for 'edmund' at Norfolk, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:32:05 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: edmund
+2024-05-01 12:32:07 - Player 'philip' gets an income of 8 and now has a total of 24
+2024-05-01 12:32:07 - Function 'findPath', value: ["Essex"]
+2024-05-01 12:32:08 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 4, Object.keys(lands_within_reach_to_attack).length: 4, character: philip, lands_within_reach_to_attack: [
+  "Cambridgeshire",
+  "Hertfordshire",
+  "Middlesex",
+  "Kent"
+]
+2024-05-01 12:32:08 - Function 'transferForcesCPU', home army forces are too low for 'philip' at Essex, men: 14, knights: 0, so no transfer will be done
+2024-05-01 12:32:08 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: philip
+2024-05-01 12:32:09 - Player 'reginald' gets an income of 35 and now has a total of 80
+2024-05-01 12:32:09 - Function 'findPath', value: ["Devon","Cornwall"]
+2024-05-01 12:32:09 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 2, Object.keys(lands_within_reach_to_attack).length: 2, character: reginald, lands_within_reach_to_attack: [
+  "Somerset",
+  "Dorset"
+]
+2024-05-01 12:32:09 - Function 'transferForcesCPU', home army forces are too low for 'reginald' at Cornwall, men: 15, knights: 0, so no transfer will be done
+2024-05-01 12:32:10 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: reginald
+2024-05-01 12:32:11 - Player 'wolfric' gets an income of 60 and now has a total of 111
+2024-05-01 12:38:49 - Player 'geoffrey' gets an income of 10 and now has a total of 10
+2024-05-01 12:41:37 - Player 'geoffrey' gets an income of 24 and now has a total of 24
+2024-05-01 12:42:08 - function "showActionDiv", action: transfer_forces, land_to: null, character: geoffrey
+2024-05-01 12:42:14 - function "showActionDiv", action: send_army, land_to: Lincolnshire, character: geoffrey
+2024-05-01 12:42:14 - function 'setArmyLocation',  land: Lincolnshire, character: geoffrey now has his army_location at: Lincolnshire
+2024-05-01 12:42:18 - Player 'wilfred' gets an income of 14 and now has a total of 14
+2024-05-01 12:42:18 - Function 'findPath', value: ["Aberdeenshire"]
+2024-05-01 12:42:18 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 4, Object.keys(lands_within_reach_to_attack).length: 4, character: wilfred, lands_within_reach_to_attack: [
+  "Banffshire",
+  "Perthshire",
+  "Angus",
+  "Kincardineshire"
+]
+2024-05-01 12:42:18 - Function 'transferForcesCPU', home army forces are too low for 'wilfred' at Aberdeenshire, men: 13, knights: 0, so no transfer will be done
+2024-05-01 12:42:19 - function "showActionDiv", action: send_army, land_to: Perthshire, character: wilfred
+2024-05-01 12:42:19 - function 'setArmyLocation',  land: Perthshire, character: wilfred now has his army_location at: Perthshire
+2024-05-01 12:42:21 - Player 'cedric' gets an income of 14 and now has a total of 14
+2024-05-01 12:42:21 - Function 'findPath', value: ["Cardiganshire"]
+2024-05-01 12:42:21 - Function 'cpuPlayerDoSomething', lands_within_reach_to_attack.length: 6, Object.keys(lands_within_reach_to_attack).length: 6, character: cedric, lands_within_reach_to_attack: [
+  "Merionethshire",
+  "Montgomeryshire",
+  "Radnorshire",
+  "Brecknockshire",
+  "Carmarthenshire",
+  "Pembrokeshire"
+]
+2024-05-01 12:42:21 - Function 'transferForcesCPU', home army forces are too low for 'cedric' at Cardiganshire, men: 13, knights: 0, so no transfer will be done
+2024-05-01 12:42:21 - function "showActionDiv", action: buy_home_army_CPU, land_to: null, character: cedric

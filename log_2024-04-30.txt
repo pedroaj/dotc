@@ -1,0 +1,2 @@
+2024-04-30 16:31:53 - Player 'geoffrey' gets an income of 18 and now has a total of 72
+2024-04-30 17:01:56 - Player 'geoffrey' gets an income of 25 and now has a total of 25
