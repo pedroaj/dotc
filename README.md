@@ -1,3 +1,9 @@
+TO-DO:
+- resize map in smaller screens, currently the top and bottom lands stay a bit out of the screen :P
+- 
+
+
+# -------------------------------------------------------------------------------------------------------------------
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
